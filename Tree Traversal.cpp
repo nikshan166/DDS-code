@@ -47,4 +47,7 @@ int main(){
     cout<< "inorder:";
     inorder(root);
     cout << endl;
+    cout<< "postorder:";
+    postorder(root);
+    cout << endl;
 }
